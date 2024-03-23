@@ -1,3 +1,10 @@
+# The puppet in OpenGL
+
+![Puppet estado inicial](puppet_1.png)
+![Puppet en otra posición](puppet_2.png)
+
+# Settings of the Visual Studio project
+
 Para compilar el proyecto en VisualStudio:
 En propiedades
 	En C/C++->General incluir en Directorios adiocionales:
@@ -28,7 +35,7 @@ de Windows.
  mi proyecto)
 
 
-Controles:
+# Controles:
 
 W-Adelante
 S-Atras
@@ -38,6 +45,7 @@ UP_ARROW-Arriba
 DOWN_ARROW-Abajo
 [ESC]-Cerrar ventana
 
+# Referencias
 
 Las referencias usadas fueron:
 
@@ -59,7 +67,4 @@ Para entender bien lo de las operaciones undo/rendo de la pila de Matrices.
 Curso Udemy:
 https://www.udemy.com/course/graphics-with-modern-opengl/
 Con este curso tome como base de mi proyecto lo que se programo hasta Texturas.
-
-
-
 
